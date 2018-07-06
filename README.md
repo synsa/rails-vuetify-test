@@ -4,7 +4,7 @@ Very basic rails app that duplicates this issue.
 
 https://github.com/vuetifyjs/vuetify/issues/4068
 
-To install:
+##To install
 
 `git clone git@github.com:lukebyrne/rails-vuetify-test.git`
 
@@ -12,7 +12,9 @@ To install:
 
 `yarn install`
 
-To run open two terminal tabs:
+##To run
+
+Open two terminal tabs:
 
 Run `rails s` in one.
 
