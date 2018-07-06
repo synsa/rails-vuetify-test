@@ -1,0 +1,16 @@
+{
+  "name": "vuetify-test",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "vue": "^2.5.16",
+    "vue-router": "^3.0.1",
+    "vuetify": "1.1.1"
+  },
+  "devDependencies": {
+    "vue-loader": "14.2.2",
+    "vue-template-compiler": "^2.5.16",
+    "webpack-dev-server": "2.11.2",
+    "pug": "^2.0.3"
+  }
+}
